@@ -1,0 +1,17 @@
+.Nav{
+    background-color: $offWhite;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#triangle {
+    border-right: 10px solid; 
+    border-bottom: 10px solid;
+    height: 30px;
+    width: 30px;
+    transform: rotate(-45deg);
+    position: absolute;
+    top: 50%;
+    left: 90%;
+}

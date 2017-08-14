@@ -1,0 +1,50 @@
+.popularRead{
+    background: $offWhite;
+    height: 100%;
+    width: 100%;
+
+
+    .Header{
+        font-size: 50px;
+        font-family: 'open sans';
+        color: $grey;
+        position: relative;
+        top: 90px;
+        left: 90px;
+        font-weight: lighter;
+    }
+    .ahh{
+        margin-left: 140px;
+    }
+
+    .article{
+        position: relative;
+        top: 100px;
+        left: 30px;
+        height: 200px;
+        width: 80%;
+        outline: $grey solid thin;
+        margin-top: 30px;
+        font-family: 'open sans';
+        font-size: 25px;
+    }
+    
+    .link{
+        color: $grey;
+        text-decoration: none;
+    }
+
+    .description{
+        width: 40%;
+        position: relative;
+        top: -20px;
+        left:300px;
+        font-family: roboto;
+        color: $grey;
+        
+    }
+
+
+
+
+}

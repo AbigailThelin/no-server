@@ -1,0 +1,50 @@
+.About{
+    background: $offWhite;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-content: center;
+
+    .home{
+        position: relative;
+        left: 20px;
+        top: 490px;
+    }
+
+    .Header{
+        font-size: 50px;
+        font-family: 'open sans';
+        color: $grey;
+        position: relative;
+        top: 500px;
+        left: 50%;
+        font-weight: lighter;
+    }
+
+    .hTag{
+        font-family: 'open sans';
+        color: $grey;
+        position: relative;
+        top: 550px;
+        left: 40%;
+    }
+
+    .body{
+        width: 60%;
+        position: relative;
+        left: 30px;
+        top: 600px;
+        line-height: 30px;
+    }
+
+    .img{
+        position: absolute;
+
+
+    }
+
+
+
+
+}
